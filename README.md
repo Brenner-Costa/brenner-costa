@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hey there, I'm Brenner 👋</h1>
-  <p><strong>Front-End Developer</strong></p>
 
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=800&color=7C8CFF&center=true&vCenter=true&width=700&lines=Front-End+Developer;React+%26+Next.js+Enthusiast;Learning+Go+%26+Software+Architecture" alt="Typing animation" />
 </div>
